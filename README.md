@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Muhammad Sajid Ali
 
-🎯 Federal Engineer | 🧠 AI Researcher | 🎨 Creative Technologist  
-📍 Islamabad, Pakistan | 💼 BS-17 Federal Sector | 🌐 Freelancer & Innovator
+🧠 AI Researcher | 🎨 Creative Technologist  
+📍 Islamabad, Pakistan | 🌐 Freelancer & Innovator
 
 ---
 
